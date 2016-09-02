@@ -1,0 +1,214 @@
+body {
+	padding-top: 100px;
+}
+
+nav {
+	height: 40px !important;
+	background-color: #262729 !important;
+}
+
+.container-fluid {
+	height: 40px !important;
+}
+
+.navbar-brand {
+	left: 50px;
+	padding: 0 !important;
+	height: 20px !important;
+	margin-top: 10px;
+	margin-left: 20px !important;
+}
+
+.starlogo-wrap {
+	width: 85px;
+	height: 48px;
+	border-right: 1px solid #595959;
+	display: inline-block;
+}
+
+.masterlogo-wrap {
+	width: 100px;
+	height: 48px;
+	border-right: 1px solid #595959;
+	display: inline-block;
+}
+
+.login-wrap {
+	width: 100px;
+	height: 48px;
+	border-right: 1px solid #595959;
+	display: inline-block;
+	float: right;
+	text-align: center;
+}
+.login-wrap p {
+	margin-top: 13px;
+	font-size: 10px;
+	color: white;
+
+}
+
+.cart-wrap {
+	width: 100px;
+	height: 48px;
+	display: inline-block;
+	float: right;
+	text-align: center;
+}
+
+.cart-wrap i {
+	color: white;
+	margin-top: 13px;
+}
+
+.navbarwhite {
+	height: 60px;
+	position: fixed;
+	width: 100%;
+	background-color: white;
+	display: block;
+	text-align: center;
+}
+
+.stormlogo {
+	float: left;
+	position: relative;
+	top: -7px;
+	left: 20px;
+	height: 80px;
+}
+
+
+.navbarwhite ul li {
+	display: inline-block;
+	margin: 25px 20px;
+	font-size: 12px;
+}
+
+.navbarwhite ul li a {
+	text-decoration: none;
+	color: black;
+}
+
+.navbarwhite ul li a:hover {
+	color: #0090BF;
+}
+
+header {
+	padding: 0 !important;
+	height: 150px !important;
+	width: 100%;
+	display: block !important;
+}
+
+.banner {
+	height: 150px;
+	width: 100%;
+	background-image: url("../img/bannerbg.jpg");
+	text-align: center;
+}
+
+.banner img {
+	margin-top: 45px;
+}
+
+
+
+.ballDiv {
+	margin-top: 50px;
+	padding: 50px 30px 20px;
+	text-align: center;
+	/*height: 300px;*/
+}
+
+.ballDiv:hover {
+	border: 1px solid #ECECEC;
+}
+
+h1 {
+	font-size: 20px !important;
+	white-space: nowrap;	
+	margin-top: 5px !important;
+	font-family: 'Passion One', cursive !important;
+}
+
+h3 {
+	font-size: 12px !important;
+	margin: 10px 0 !important;
+}
+
+h4 {
+	font-size: 16px !important;
+	color: #444444;
+	margin-bottom: 0 !important;
+	font-family: 'Economica', sans-serif !important;
+}
+
+button {
+	background-color: #303030;
+	padding: 10px 20px;
+	color: white !important;
+	font-weight: lighter !important;
+	font-size: 12px !important;
+	border: none;
+}
+
+button:hover {
+	background-color: #0090BF;
+}
+
+.email {
+	height: 300px;
+	width: 100%;
+	background-color: #ECECEC;
+	text-align: center;
+	position: relative;
+	top: 50px;
+}
+
+.email h2 {
+	margin: 0 auto 100px;
+	font-family: 'Economica', sans-serif !important;
+	width: 70%;
+	border-bottom: 1px solid #DEDEDE;
+	position: relative;
+	top: 50px;
+}
+
+.email input {
+	vertical-align: bottom;
+	height: 50px;
+	width: 30%;
+	background-color: transparent;
+	border: none;
+	border-bottom: 1px solid #AFAAAA;
+}
+
+.email input:focus {
+	outline: none;
+}
+
+.email button {
+	padding: 10px 30px;
+}
+
+i, .cart-wrap p {
+	display: inline-block;
+	margin: 0 5px;
+}
+
+
+.modal-content iframe{
+        margin: 0 auto;
+        display: block;
+    }
+
+
+
+
+
+
+
+
+
+
